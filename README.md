@@ -1,3 +1,3 @@
 # newRepo
-repositry
+repo new text
 Before edit
